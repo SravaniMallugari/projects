@@ -1,0 +1,7 @@
+school Name:RainbowSchool
+Class:Secondary High School
+Subject:ProgressReport
+ sl.No  Name   Rollno  Sub     Marks  Grade
+   1    Anusha  422    Maths    85     A+
+   2    Isra    421    science  78     A
+   3    shylu   420    maths    47     C
