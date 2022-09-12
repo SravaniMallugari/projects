@@ -1,0 +1,8 @@
+C:\dotnet\sortndsearch\sortndsearch\obj\Debug\sortndsearch.csproj.AssemblyReference.cache
+C:\dotnet\sortndsearch\sortndsearch\obj\Debug\sortndsearch.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\sortndsearch\sortndsearch\obj\Debug\sortndsearch.csproj.CoreCompileInputs.cache
+C:\dotnet\sortndsearch\sortndsearch\bin\Debug\sortndsearch.exe.config
+C:\dotnet\sortndsearch\sortndsearch\bin\Debug\sortndsearch.exe
+C:\dotnet\sortndsearch\sortndsearch\bin\Debug\sortndsearch.pdb
+C:\dotnet\sortndsearch\sortndsearch\obj\Debug\sortndsearch.exe
+C:\dotnet\sortndsearch\sortndsearch\obj\Debug\sortndsearch.pdb
