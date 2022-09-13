@@ -1,0 +1,11 @@
+C:\dotnet\oopsproject\oopsproject\obj\Debug\oopsproject.csproj.AssemblyReference.cache
+C:\dotnet\oopsproject\oopsproject\obj\Debug\oopsproject.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\oopsproject\oopsproject\obj\Debug\oopsproject.csproj.CoreCompileInputs.cache
+C:\dotnet\oopsproject\oopsproject\bin\Debug\oopsproject.exe.config
+C:\dotnet\oopsproject\oopsproject\bin\Debug\oopsproject.exe
+C:\dotnet\oopsproject\oopsproject\bin\Debug\oopsproject.pdb
+C:\dotnet\oopsproject\oopsproject\bin\Debug\ClassLibrary1.dll
+C:\dotnet\oopsproject\oopsproject\bin\Debug\ClassLibrary1.pdb
+C:\dotnet\oopsproject\oopsproject\obj\Debug\oopsproject.csproj.CopyComplete
+C:\dotnet\oopsproject\oopsproject\obj\Debug\oopsproject.exe
+C:\dotnet\oopsproject\oopsproject\obj\Debug\oopsproject.pdb
