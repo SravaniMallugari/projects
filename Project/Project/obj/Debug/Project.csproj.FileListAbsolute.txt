@@ -1,0 +1,11 @@
+E:\NET\Project\Project\bin\Debug\Project.exe.config
+E:\NET\Project\Project\bin\Debug\Project.exe
+E:\NET\Project\Project\bin\Debug\Project.pdb
+E:\NET\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+E:\NET\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+E:\NET\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+E:\NET\Project\Project\obj\Debug\Project.exe
+E:\NET\Project\Project\obj\Debug\Project.pdb
+E:\NET\Project\Project\bin\Debug\ClassLibrary1.dll
+E:\NET\Project\Project\bin\Debug\ClassLibrary1.pdb
+E:\NET\Project\Project\obj\Debug\Project.csproj.CopyComplete
