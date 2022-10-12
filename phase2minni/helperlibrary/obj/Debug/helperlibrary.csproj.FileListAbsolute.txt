@@ -1,0 +1,11 @@
+D:\practice\phase2minni\helperlibrary\bin\Debug\helperlibrary.dll
+D:\practice\phase2minni\helperlibrary\bin\Debug\helperlibrary.pdb
+D:\practice\phase2minni\helperlibrary\obj\Debug\helperlibrary.csproj.AssemblyReference.cache
+D:\practice\phase2minni\helperlibrary\obj\Debug\helperlibrary.csproj.CoreCompileInputs.cache
+D:\practice\phase2minni\helperlibrary\obj\Debug\helperlibrary.dll
+D:\practice\phase2minni\helperlibrary\obj\Debug\helperlibrary.pdb
+D:\practice\phase2minni\helperlibrary\bin\Debug\bal.dll
+D:\practice\phase2minni\helperlibrary\bin\Debug\dallibrary.dll
+D:\practice\phase2minni\helperlibrary\bin\Debug\bal.pdb
+D:\practice\phase2minni\helperlibrary\bin\Debug\dallibrary.pdb
+D:\practice\phase2minni\helperlibrary\obj\Debug\helperlibrary.csproj.CopyComplete

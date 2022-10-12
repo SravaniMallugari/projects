@@ -1,0 +1,6 @@
+D:\practice\phase2minni\bal\bin\Debug\bal.dll
+D:\practice\phase2minni\bal\bin\Debug\bal.pdb
+D:\practice\phase2minni\bal\obj\Debug\bal.csproj.AssemblyReference.cache
+D:\practice\phase2minni\bal\obj\Debug\bal.csproj.CoreCompileInputs.cache
+D:\practice\phase2minni\bal\obj\Debug\bal.dll
+D:\practice\phase2minni\bal\obj\Debug\bal.pdb
