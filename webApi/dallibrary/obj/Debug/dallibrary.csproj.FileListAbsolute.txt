@@ -1,0 +1,9 @@
+D:\practice\webApi\dallibrary\obj\Debug\dallibrary.csproj.AssemblyReference.cache
+D:\practice\webApi\dallibrary\obj\Debug\dallibrary.csproj.CoreCompileInputs.cache
+D:\practice\webApi\dallibrary\bin\Debug\dallibrary.dll
+D:\practice\webApi\dallibrary\bin\Debug\dallibrary.pdb
+D:\practice\webApi\dallibrary\bin\Debug\ballibrary.dll
+D:\practice\webApi\dallibrary\bin\Debug\ballibrary.pdb
+D:\practice\webApi\dallibrary\obj\Debug\dallibrary.csproj.CopyComplete
+D:\practice\webApi\dallibrary\obj\Debug\dallibrary.dll
+D:\practice\webApi\dallibrary\obj\Debug\dallibrary.pdb

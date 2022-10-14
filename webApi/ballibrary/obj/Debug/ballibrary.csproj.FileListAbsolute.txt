@@ -1,0 +1,6 @@
+D:\practice\webApi\ballibrary\bin\Debug\ballibrary.dll
+D:\practice\webApi\ballibrary\bin\Debug\ballibrary.pdb
+D:\practice\webApi\ballibrary\obj\Debug\ballibrary.csproj.AssemblyReference.cache
+D:\practice\webApi\ballibrary\obj\Debug\ballibrary.csproj.CoreCompileInputs.cache
+D:\practice\webApi\ballibrary\obj\Debug\ballibrary.dll
+D:\practice\webApi\ballibrary\obj\Debug\ballibrary.pdb

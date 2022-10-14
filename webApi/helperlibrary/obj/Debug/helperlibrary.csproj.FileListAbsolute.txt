@@ -1,0 +1,11 @@
+D:\practice\webApi\helperlibrary\obj\Debug\helperlibrary.csproj.AssemblyReference.cache
+D:\practice\webApi\helperlibrary\obj\Debug\helperlibrary.csproj.CoreCompileInputs.cache
+D:\practice\webApi\helperlibrary\bin\Debug\helperlibrary.dll
+D:\practice\webApi\helperlibrary\bin\Debug\helperlibrary.pdb
+D:\practice\webApi\helperlibrary\bin\Debug\ballibrary.dll
+D:\practice\webApi\helperlibrary\bin\Debug\dallibrary.dll
+D:\practice\webApi\helperlibrary\bin\Debug\ballibrary.pdb
+D:\practice\webApi\helperlibrary\bin\Debug\dallibrary.pdb
+D:\practice\webApi\helperlibrary\obj\Debug\helperlibrary.csproj.CopyComplete
+D:\practice\webApi\helperlibrary\obj\Debug\helperlibrary.dll
+D:\practice\webApi\helperlibrary\obj\Debug\helperlibrary.pdb
