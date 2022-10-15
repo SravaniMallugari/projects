@@ -1,0 +1,16 @@
+D:\practice\phase2-EOP\departments\bin\Debug\departments.exe.config
+D:\practice\phase2-EOP\departments\bin\Debug\departments.exe
+D:\practice\phase2-EOP\departments\bin\Debug\departments.pdb
+D:\practice\phase2-EOP\departments\bin\Debug\EntityFramework.dll
+D:\practice\phase2-EOP\departments\bin\Debug\EntityFramework.SqlServer.dll
+D:\practice\phase2-EOP\departments\bin\Debug\EntityFramework.xml
+D:\practice\phase2-EOP\departments\bin\Debug\EntityFramework.SqlServer.xml
+D:\practice\phase2-EOP\departments\obj\Debug\departments.csproj.AssemblyReference.cache
+D:\practice\phase2-EOP\departments\obj\Debug\departments.csproj.SuggestedBindingRedirects.cache
+D:\practice\phase2-EOP\departments\obj\Debug\departments.csproj.CoreCompileInputs.cache
+D:\practice\phase2-EOP\departments\obj\Debug\departments.csproj.CopyComplete
+D:\practice\phase2-EOP\departments\obj\Debug\departments.exe
+D:\practice\phase2-EOP\departments\obj\Debug\departments.pdb
+D:\practice\phase2-EOP\departments\bin\Debug\dallibrary.dll
+D:\practice\phase2-EOP\departments\bin\Debug\dallibrary.pdb
+D:\practice\phase2-EOP\departments\bin\Debug\dallibrary.dll.config

@@ -1,0 +1,12 @@
+D:\practice\phase2-EOP\dallibrary\obj\Debug\dallibrary.csproj.AssemblyReference.cache
+D:\practice\phase2-EOP\dallibrary\obj\Debug\dallibrary.csproj.CoreCompileInputs.cache
+D:\practice\phase2-EOP\dallibrary\bin\Debug\dallibrary.dll.config
+D:\practice\phase2-EOP\dallibrary\bin\Debug\dallibrary.dll
+D:\practice\phase2-EOP\dallibrary\bin\Debug\dallibrary.pdb
+D:\practice\phase2-EOP\dallibrary\bin\Debug\EntityFramework.dll
+D:\practice\phase2-EOP\dallibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\practice\phase2-EOP\dallibrary\bin\Debug\EntityFramework.xml
+D:\practice\phase2-EOP\dallibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\practice\phase2-EOP\dallibrary\obj\Debug\dallibrary.csproj.CopyComplete
+D:\practice\phase2-EOP\dallibrary\obj\Debug\dallibrary.dll
+D:\practice\phase2-EOP\dallibrary\obj\Debug\dallibrary.pdb

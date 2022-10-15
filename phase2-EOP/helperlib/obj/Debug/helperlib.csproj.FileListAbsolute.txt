@@ -1,0 +1,15 @@
+D:\practice\phase2-EOP\helperlib\obj\Debug\helperlib.csproj.AssemblyReference.cache
+D:\practice\phase2-EOP\helperlib\obj\Debug\helperlib.csproj.CoreCompileInputs.cache
+D:\practice\phase2-EOP\helperlib\bin\Debug\helperlib.dll.config
+D:\practice\phase2-EOP\helperlib\bin\Debug\helperlib.dll
+D:\practice\phase2-EOP\helperlib\bin\Debug\helperlib.pdb
+D:\practice\phase2-EOP\helperlib\bin\Debug\dallibrary.dll
+D:\practice\phase2-EOP\helperlib\bin\Debug\EntityFramework.dll
+D:\practice\phase2-EOP\helperlib\bin\Debug\EntityFramework.SqlServer.dll
+D:\practice\phase2-EOP\helperlib\bin\Debug\dallibrary.pdb
+D:\practice\phase2-EOP\helperlib\bin\Debug\dallibrary.dll.config
+D:\practice\phase2-EOP\helperlib\bin\Debug\EntityFramework.xml
+D:\practice\phase2-EOP\helperlib\bin\Debug\EntityFramework.SqlServer.xml
+D:\practice\phase2-EOP\helperlib\obj\Debug\helperlib.csproj.CopyComplete
+D:\practice\phase2-EOP\helperlib\obj\Debug\helperlib.dll
+D:\practice\phase2-EOP\helperlib\obj\Debug\helperlib.pdb
