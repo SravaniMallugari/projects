@@ -1,0 +1,6 @@
+D:\practice\storingdata\storingdata\bin\Debug\storingdata.dll
+D:\practice\storingdata\storingdata\bin\Debug\storingdata.pdb
+D:\practice\storingdata\storingdata\obj\Debug\storingdata.csproj.AssemblyReference.cache
+D:\practice\storingdata\storingdata\obj\Debug\storingdata.csproj.CoreCompileInputs.cache
+D:\practice\storingdata\storingdata\obj\Debug\storingdata.dll
+D:\practice\storingdata\storingdata\obj\Debug\storingdata.pdb
