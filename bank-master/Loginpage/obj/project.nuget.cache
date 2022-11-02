@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zDhBYz4mE9xlGTw2LsvhlG6l3k4hL2nWCJe8JlP9w8Fwdt6yuFy3ELYdhjM8Bu7tY/jkclw4AmGVFFih1XV6+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Texas\\source\\repos\\projects\\bank-master\\Loginpage\\Loginpage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Texas\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
