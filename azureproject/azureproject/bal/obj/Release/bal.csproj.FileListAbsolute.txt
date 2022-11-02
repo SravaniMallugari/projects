@@ -1,0 +1,6 @@
+C:\Users\Texas\Downloads\phase2-master\phase2-master\bal\bin\Release\bal.dll
+C:\Users\Texas\Downloads\phase2-master\phase2-master\bal\bin\Release\bal.pdb
+C:\Users\Texas\Downloads\phase2-master\phase2-master\bal\obj\Release\bal.csproj.AssemblyReference.cache
+C:\Users\Texas\Downloads\phase2-master\phase2-master\bal\obj\Release\bal.csproj.CoreCompileInputs.cache
+C:\Users\Texas\Downloads\phase2-master\phase2-master\bal\obj\Release\bal.dll
+C:\Users\Texas\Downloads\phase2-master\phase2-master\bal\obj\Release\bal.pdb

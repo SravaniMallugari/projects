@@ -1,0 +1,12 @@
+C:\dotnet\rainbowschool\data\bin\Debug\data.dll
+C:\dotnet\rainbowschool\data\bin\Debug\data.pdb
+C:\dotnet\rainbowschool\data\obj\Debug\data.csproj.AssemblyReference.cache
+C:\dotnet\rainbowschool\data\obj\Debug\data.csproj.CoreCompileInputs.cache
+C:\dotnet\rainbowschool\data\obj\Debug\data.dll
+C:\dotnet\rainbowschool\data\obj\Debug\data.pdb
+C:\Users\Texas\Downloads\phase2-master\phase2-master\data\bin\Debug\data.dll
+C:\Users\Texas\Downloads\phase2-master\phase2-master\data\bin\Debug\data.pdb
+C:\Users\Texas\Downloads\phase2-master\phase2-master\data\obj\Debug\data.csproj.AssemblyReference.cache
+C:\Users\Texas\Downloads\phase2-master\phase2-master\data\obj\Debug\data.csproj.CoreCompileInputs.cache
+C:\Users\Texas\Downloads\phase2-master\phase2-master\data\obj\Debug\data.dll
+C:\Users\Texas\Downloads\phase2-master\phase2-master\data\obj\Debug\data.pdb

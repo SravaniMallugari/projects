@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Texas\Downloads\phase2-master\phase2-master\rainbowschool\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\Texas\Downloads\phase2-master\phase2-master\rainbowschool\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\Texas\Downloads\phase2-master\phase2-master\rainbowschool\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

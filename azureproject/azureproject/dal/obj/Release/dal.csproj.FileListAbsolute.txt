@@ -1,0 +1,11 @@
+C:\Users\Texas\Downloads\phase2-master\phase2-master\dal\bin\Release\dal.dll
+C:\Users\Texas\Downloads\phase2-master\phase2-master\dal\bin\Release\dal.pdb
+C:\Users\Texas\Downloads\phase2-master\phase2-master\dal\bin\Release\bal.dll
+C:\Users\Texas\Downloads\phase2-master\phase2-master\dal\bin\Release\data.dll
+C:\Users\Texas\Downloads\phase2-master\phase2-master\dal\bin\Release\bal.pdb
+C:\Users\Texas\Downloads\phase2-master\phase2-master\dal\bin\Release\data.pdb
+C:\Users\Texas\Downloads\phase2-master\phase2-master\dal\obj\Release\dal.csproj.AssemblyReference.cache
+C:\Users\Texas\Downloads\phase2-master\phase2-master\dal\obj\Release\dal.csproj.CoreCompileInputs.cache
+C:\Users\Texas\Downloads\phase2-master\phase2-master\dal\obj\Release\dal.csproj.CopyComplete
+C:\Users\Texas\Downloads\phase2-master\phase2-master\dal\obj\Release\dal.dll
+C:\Users\Texas\Downloads\phase2-master\phase2-master\dal\obj\Release\dal.pdb
